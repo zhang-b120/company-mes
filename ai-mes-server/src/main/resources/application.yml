@@ -1,0 +1,69 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /
+
+spring:
+  datasource:
+    # jdbc:mysql://182.40.33.205:3306
+    # jdbc:mysql://182.40.103.214:3306
+    # jdbc:mysql://182.40.103.203:3306
+    # jdbc:mysql://182.40.102.26:3306
+    # jdbc:mysql://182.40.102.24:3306
+    # jdbc:mysql://182.40.194.136:3306
+    # jdbc:mysql://182.40.105.0:3306
+    # jdbc:mysql://182.40.104.246:3306
+    # jdbc:mysql://182.40.194.59:3306
+    # jdbc:mysql://182.40.199.62:3306
+    # jdbc:mysql://182.40.198.112:3306
+    # jdbc:mysql://182.40.105.122:3306
+    # jdbc:mysql://150.139.141.112:3306
+    url: jdbc:mysql://182.40.104.246:3306/ai_mes_wanyun?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false&rewriteBatchedStatements=true
+    username: qy
+    password: qykj@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+jwt:
+  secret: ai-mes-secret-key-must-be-at-least-32-characters-long
+  access-token-expire: 7200000
+  refresh-token-expire: 604800000
+
+ai:
+  deepseek:
+    api-key: ${DEEPSEEK_API_KEY:}
+    base-url: https://api.deepseek.com
+    model: deepseek-chat
+    timeout: 60000
+    max-tokens: 4096
+
+mrp:
+  schedule:
+    enabled: false
+    cron: "0 0 2 * * ?"
+
+file:
+  upload:
+    path: E:/produce/file/uploads-
+    url-prefix: /uploads-
+logging:
+  level:
+    com.aimes: debug

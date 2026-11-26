@@ -1,0 +1,102 @@
+{
+  "panels": [
+    {
+      "index": 0,
+      "name": "采购收料对账单(竖版)",
+      "height": 297,
+      "width": 210,
+      "paperHeader": 170,
+      "paperFooter": 780,
+      "paperNumberLeft": 510,
+      "paperNumberTop": 800,
+      "paperNumberDisabled": false,
+      "paperNumberContinue": true,
+      "panelPageRule": "page",
+      "panelLayoutOptions": { "regionalIndicatorSubject": true },
+      "printElements": [
+        {
+          "options": {
+            "left": 0, "top": 18, "height": 30, "width": 595,
+            "title": "采购收料对账单",
+            "fontSize": 22, "fontWeight": "700", "textAlign": "center",
+            "letterSpacing": 6, "color": "#1f2937"
+          },
+          "printElementType": { "title": "大标题", "type": "text" }
+        },
+        {
+          "options": { "left": 238, "top": 54, "height": 2, "width": 120, "color": "#1d4ed8" },
+          "printElementType": { "type": "hline" }
+        },
+        {
+          "options": { "left": 258, "top": 58, "height": 1, "width": 80, "color": "#1d4ed8" },
+          "printElementType": { "type": "hline" }
+        },
+
+        {
+          "options": { "left": 25, "top": 78, "height": 80, "width": 545, "borderColor": "#e5e7eb", "color": "#e5e7eb" },
+          "printElementType": { "title": "信息框", "type": "rect" }
+        },
+        { "options": { "left": 40, "top": 88, "height": 18, "width": 70, "title": "批次组号", "fontSize": 9, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 110, "top": 88, "height": 18, "width": 200, "field": "groupId", "fontSize": 10, "fontWeight": "700" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 330, "top": 88, "height": 18, "width": 70, "title": "采购订单", "fontSize": 9, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 400, "top": 88, "height": 18, "width": 160, "field": "poNo", "fontSize": 10, "fontWeight": "700" }, "printElementType": { "type": "text" } },
+
+        { "options": { "left": 40, "top": 113, "height": 18, "width": 70, "title": "供应商", "fontSize": 9, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 110, "top": 113, "height": 18, "width": 220, "field": "supplierName", "fontSize": 10 }, "printElementType": { "type": "text" } },
+        { "options": { "left": 330, "top": 113, "height": 18, "width": 70, "title": "收料日期", "fontSize": 9, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 400, "top": 113, "height": 18, "width": 160, "field": "receivedDate", "fontSize": 10 }, "printElementType": { "type": "text" } },
+
+        { "options": { "left": 40, "top": 138, "height": 18, "width": 70, "title": "采购员", "fontSize": 9, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 110, "top": 138, "height": 18, "width": 200, "field": "purchaserName", "fontSize": 10, "fontWeight": "700" }, "printElementType": { "type": "text" } },
+
+        {
+          "options": {
+            "left": 25, "top": 168, "width": 545, "height": 22,
+            "field": "items",
+            "columns": [[
+              { "title": "序号",     "field": "seq",          "width": 35,  "align": "center" },
+              { "title": "物料编号", "field": "materialNo",  "width": 80 },
+              { "title": "物料名称", "field": "materialName","width": 120 },
+              { "title": "规格",     "field": "spec",         "width": 130 },
+              { "title": "单位",     "field": "unit",         "width": 35,  "align": "center" },
+              { "title": "应收",     "field": "expectedQty",  "width": 50,  "align": "right" },
+              { "title": "实收",     "field": "actualQty",    "width": 50,  "align": "right" },
+              { "title": "差异",     "field": "diffQty",      "width": 45,  "align": "right" }
+            ]],
+            "tableHeaderRepeat": true,
+            "tableFooterRepeat": "last",
+            "tableBorder": "all",
+            "tableHeaderBorder": "all",
+            "tableHeaderCellBorder": "all",
+            "tableBodyRowBorder": "all",
+            "tableBodyCellBorder": "all",
+            "tableHeaderBackground": "#1d4ed8",
+            "tableHeaderFontWeight": "700",
+            "tableHeaderFontSize": 10,
+            "tableHeaderRowHeight": 28,
+            "tableBodyRowHeight": 36,
+            "maxRows": 15,
+            "fontSize": 9
+          },
+          "printElementType": { "title": "表格", "type": "table" }
+        },
+
+        {
+          "options": { "left": 25, "top": 785, "height": 1, "width": 545, "color": "#e5e7eb" },
+          "printElementType": { "title": "签字栏分隔线", "type": "hline" }
+        },
+        { "options": { "left": 30,  "top": 792, "height": 18, "width": 60, "title": "采购员:", "fontSize": 10, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 80,  "top": 792, "height": 18, "width": 110, "field": "purchaserName", "fontSize": 11, "fontWeight": "700" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 30,  "top": 812, "height": 14, "width": 160, "title": "日期: ___ / ___ / ___", "fontSize": 9, "color": "#9ca3af" }, "printElementType": { "type": "text" } },
+
+        { "options": { "left": 215, "top": 792, "height": 18, "width": 60, "title": "仓管员:", "fontSize": 10, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 265, "top": 792, "height": 18, "width": 110, "title": "_____________", "fontSize": 11 }, "printElementType": { "type": "text" } },
+        { "options": { "left": 215, "top": 812, "height": 14, "width": 160, "title": "日期: ___ / ___ / ___", "fontSize": 9, "color": "#9ca3af" }, "printElementType": { "type": "text" } },
+
+        { "options": { "left": 400, "top": 792, "height": 18, "width": 80, "title": "供应商签字:", "fontSize": 10, "color": "#6b7280" }, "printElementType": { "type": "text" } },
+        { "options": { "left": 465, "top": 792, "height": 18, "width": 105, "title": "_____________", "fontSize": 11 }, "printElementType": { "type": "text" } },
+        { "options": { "left": 400, "top": 812, "height": 14, "width": 160, "title": "日期: ___ / ___ / ___", "fontSize": 9, "color": "#9ca3af" }, "printElementType": { "type": "text" } }
+      ]
+    }
+  ]
+}

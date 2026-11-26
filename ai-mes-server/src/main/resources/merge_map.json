@@ -1,0 +1,2424 @@
+[
+  {
+    "primaryId": 7,
+    "primaryNo": "0101072",
+    "primarySpec": "14",
+    "name": "槽钢",
+    "mergeIds": [
+      19
+    ],
+    "mergeDetails": [
+      {
+        "id": 19,
+        "no": "0101809",
+        "spec": "14"
+      }
+    ]
+  },
+  {
+    "primaryId": 21,
+    "primaryNo": "0101C04064",
+    "primarySpec": "80*120*5",
+    "name": "方管",
+    "mergeIds": [
+      26
+    ],
+    "mergeDetails": [
+      {
+        "id": 26,
+        "no": "0101C04069",
+        "spec": "80*120*5"
+      }
+    ]
+  },
+  {
+    "primaryId": 55,
+    "primaryNo": "SZ100500Y28001DCF",
+    "primarySpec": "SZ-100-500-Y280-01DCF",
+    "name": "底座",
+    "mergeIds": [
+      805,
+      533
+    ],
+    "mergeDetails": [
+      {
+        "id": 805,
+        "no": "SZ-100-500-Y280-01DCF",
+        "spec": null
+      },
+      {
+        "id": 533,
+        "no": "ZG0052",
+        "spec": "SZ-100-500-Y280-01DCF"
+      }
+    ]
+  },
+  {
+    "primaryId": 58,
+    "primaryNo": "TZJD0902HJ",
+    "primarySpec": "TZJD-0902HJ",
+    "name": "底座",
+    "mergeIds": [
+      719,
+      487
+    ],
+    "mergeDetails": [
+      {
+        "id": 719,
+        "no": "TZJD-0902HJ",
+        "spec": null
+      },
+      {
+        "id": 487,
+        "no": "ZG0006",
+        "spec": "TZJD-0902HJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 59,
+    "primaryNo": "TZJEY28001DC",
+    "primarySpec": "TZJE-Y280-01DC",
+    "name": "底座",
+    "mergeIds": [
+      777,
+      605
+    ],
+    "mergeDetails": [
+      {
+        "id": 777,
+        "no": "TZJE-Y280-01DC",
+        "spec": null
+      },
+      {
+        "id": 605,
+        "no": "ZG0124",
+        "spec": "TZJE-Y280-01DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 96,
+    "primaryNo": "FHDZD100",
+    "primarySpec": "FHDZ-D-100",
+    "name": "发货底座",
+    "mergeIds": [
+      656,
+      559
+    ],
+    "mergeDetails": [
+      {
+        "id": 656,
+        "no": "FHDZ-D-100",
+        "spec": null
+      },
+      {
+        "id": 559,
+        "no": "ZG0078",
+        "spec": "FHDZ-D-100"
+      }
+    ]
+  },
+  {
+    "primaryId": 97,
+    "primaryNo": "FHDZE100",
+    "primarySpec": "FHDZ-E-100",
+    "name": "发货底座",
+    "mergeIds": [
+      649,
+      552
+    ],
+    "mergeDetails": [
+      {
+        "id": 649,
+        "no": "FHDZ-E-100",
+        "spec": null
+      },
+      {
+        "id": 552,
+        "no": "ZG0071",
+        "spec": "FHDZ-E-100"
+      }
+    ]
+  },
+  {
+    "primaryId": 100,
+    "primaryNo": "FHDZS200",
+    "primarySpec": "FHDZ-S-200",
+    "name": "发货底座",
+    "mergeIds": [
+      646,
+      549
+    ],
+    "mergeDetails": [
+      {
+        "id": 646,
+        "no": "FHDZ-S-200",
+        "spec": null
+      },
+      {
+        "id": 549,
+        "no": "ZG0068",
+        "spec": "FHDZ-S-200"
+      }
+    ]
+  },
+  {
+    "primaryId": 104,
+    "primaryNo": "HFXS3501201",
+    "primarySpec": "HFXS350-1201",
+    "name": "联轴器罩",
+    "mergeIds": [
+      796,
+      523
+    ],
+    "mergeDetails": [
+      {
+        "id": 796,
+        "no": "HFXS350-1201",
+        "spec": null
+      },
+      {
+        "id": 523,
+        "no": "ZG0042",
+        "spec": "HFXS350-1201"
+      }
+    ]
+  },
+  {
+    "primaryId": 106,
+    "primaryNo": "HJC2001ZV",
+    "primarySpec": "HJC-20-01ZV",
+    "name": "皮带罩",
+    "mergeIds": [
+      802,
+      529
+    ],
+    "mergeDetails": [
+      {
+        "id": 802,
+        "no": "HJC-20-01ZV",
+        "spec": null
+      },
+      {
+        "id": 529,
+        "no": "ZG0048",
+        "spec": "HJC-20-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 179,
+    "primaryNo": "JGTZJS2501201B230710",
+    "primarySpec": "JGTZJS-250-1201B-230710",
+    "name": "联轴器罩",
+    "mergeIds": [
+      776,
+      604
+    ],
+    "mergeDetails": [
+      {
+        "id": 776,
+        "no": "JGTZJS-250-1201B-230710",
+        "spec": null
+      },
+      {
+        "id": 604,
+        "no": "ZG0123",
+        "spec": "JGTZJS-250-1201B-230710"
+      }
+    ]
+  },
+  {
+    "primaryId": 192,
+    "primaryNo": "JZSX0.8×0.8",
+    "primarySpec": "JZSX-0.8×0.8",
+    "name": "集中水箱",
+    "mergeIds": [
+      763,
+      591
+    ],
+    "mergeDetails": [
+      {
+        "id": 763,
+        "no": "JZSX-0.8×0.8",
+        "spec": null
+      },
+      {
+        "id": 591,
+        "no": "ZG0110",
+        "spec": "JZSX-0.8×0.8"
+      }
+    ]
+  },
+  {
+    "primaryId": 193,
+    "primaryNo": "JZSX0.8×0.815",
+    "primarySpec": "JZSX-0.8×0.8-15",
+    "name": "集中水箱盖",
+    "mergeIds": [
+      764,
+      592
+    ],
+    "mergeDetails": [
+      {
+        "id": 764,
+        "no": "JZSX-0.8×0.8-15",
+        "spec": null
+      },
+      {
+        "id": 592,
+        "no": "ZG0111",
+        "spec": "JZSX-0.8×0.8-15"
+      }
+    ]
+  },
+  {
+    "primaryId": 200,
+    "primaryNo": "SZ091120001ZVH500",
+    "primarySpec": "SZ-0911-200-01ZV-H500",
+    "name": "底座",
+    "mergeIds": [
+      713,
+      570
+    ],
+    "mergeDetails": [
+      {
+        "id": 713,
+        "no": "SZ-0911-200-01ZV-H500",
+        "spec": null
+      },
+      {
+        "id": 570,
+        "no": "ZG0089",
+        "spec": "SZ-0911-200-01ZV-H500"
+      }
+    ]
+  },
+  {
+    "primaryId": 207,
+    "primaryNo": "SZ10050012016",
+    "primarySpec": "SZ-100-500-1201-6",
+    "name": "联轴器罩",
+    "mergeIds": [
+      633,
+      518
+    ],
+    "mergeDetails": [
+      {
+        "id": 633,
+        "no": "SZ-100-500-1201-6",
+        "spec": null
+      },
+      {
+        "id": 518,
+        "no": "ZG0037",
+        "spec": "SZ-100-500-1201-6"
+      }
+    ]
+  },
+  {
+    "primaryId": 211,
+    "primaryNo": "SZ100500Y22501DCJZ",
+    "primarySpec": "SZ-100-500-Y225-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      608
+    ],
+    "mergeDetails": [
+      {
+        "id": 608,
+        "no": "ZG0127",
+        "spec": "SZ-100-500-Y225-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 214,
+    "primaryNo": "SZ100500Y31501DCJZ",
+    "primarySpec": "SZ-100-500-Y315-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      760,
+      520
+    ],
+    "mergeDetails": [
+      {
+        "id": 760,
+        "no": "SZ-100-500-Y315-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 520,
+        "no": "ZG0039",
+        "spec": "SZ-100-500-Y315-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 218,
+    "primaryNo": "SZ150650TDFHZJ/SZ150600TDFHZJ/",
+    "primarySpec": "SZ-150-650TD-FHZJ/SZ-150-600TD-FHZJ/SZ-150-710TD-FHZJ",
+    "name": "泵发货支架",
+    "mergeIds": [
+      498
+    ],
+    "mergeDetails": [
+      {
+        "id": 498,
+        "no": "ZG0017",
+        "spec": "SZ-150-650TD-FHZJ/SZ-150-600TD-FHZJ/SZ-150-710TD-FHZJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 221,
+    "primaryNo": "SZ2006000911Y35501CL",
+    "primarySpec": "SZ-200-600-0911-Y355-01CL",
+    "name": "底座",
+    "mergeIds": [
+      787,
+      615
+    ],
+    "mergeDetails": [
+      {
+        "id": 787,
+        "no": "SZ-200-600-0911-Y355-01CL",
+        "spec": null
+      },
+      {
+        "id": 615,
+        "no": "ZG0134",
+        "spec": "SZ-200-600-0911-Y355-01CL"
+      }
+    ]
+  },
+  {
+    "primaryId": 229,
+    "primaryNo": "SZ250750Y35501DC",
+    "primarySpec": "SZ-250-750-Y355-01DC",
+    "name": "底座",
+    "mergeIds": [
+      772,
+      522
+    ],
+    "mergeDetails": [
+      {
+        "id": 772,
+        "no": "SZ-250-750-Y355-01DC",
+        "spec": null
+      },
+      {
+        "id": 522,
+        "no": "ZG0041",
+        "spec": "SZ-250-750-Y355-01DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 234,
+    "primaryNo": "SZ3000108900CHJ",
+    "primarySpec": "SZ-300-0108-900CHJ",
+    "name": "支架",
+    "mergeIds": [
+      765,
+      593
+    ],
+    "mergeDetails": [
+      {
+        "id": 765,
+        "no": "SZ-300-0108-900CHJ",
+        "spec": null
+      },
+      {
+        "id": 593,
+        "no": "ZG0112",
+        "spec": "SZ-300-0108-900CHJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 235,
+    "primaryNo": "SZ3000901900C",
+    "primarySpec": "SZ-300-0901-900C",
+    "name": "底座",
+    "mergeIds": [
+      766,
+      594
+    ],
+    "mergeDetails": [
+      {
+        "id": 766,
+        "no": "SZ-300-0901-900C",
+        "spec": null
+      },
+      {
+        "id": 594,
+        "no": "ZG0113",
+        "spec": "SZ-300-0901-900C"
+      }
+    ]
+  },
+  {
+    "primaryId": 252,
+    "primaryNo": "TZJ130145001ZV",
+    "primarySpec": "TZJ-1301-450-01ZV",
+    "name": "皮带罩",
+    "mergeIds": [
+      629,
+      482
+    ],
+    "mergeDetails": [
+      {
+        "id": 629,
+        "no": "TZJ-1301-450-01ZV",
+        "spec": null
+      },
+      {
+        "id": 482,
+        "no": "ZG0001",
+        "spec": "TZJ-1301-450-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 253,
+    "primaryNo": "TZJ130155001ZV",
+    "primarySpec": "TZJ-1301-550-01ZV",
+    "name": "皮带罩",
+    "mergeIds": [
+      630,
+      483
+    ],
+    "mergeDetails": [
+      {
+        "id": 630,
+        "no": "TZJ-1301-550-01ZV",
+        "spec": null
+      },
+      {
+        "id": 483,
+        "no": "ZG0002",
+        "spec": "TZJ-1301-550-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 254,
+    "primaryNo": "TZJ130155002ZV",
+    "primarySpec": "TZJ-1301-550-02ZV",
+    "name": "皮带罩",
+    "mergeIds": [
+      803,
+      531
+    ],
+    "mergeDetails": [
+      {
+        "id": 803,
+        "no": "TZJ-1301-550-02ZV",
+        "spec": null
+      },
+      {
+        "id": 531,
+        "no": "ZG0050",
+        "spec": "TZJ-1301-550-02ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 255,
+    "primaryNo": "TZJ130168001ZV",
+    "primarySpec": "TZJ-1301-680-01ZV",
+    "name": "皮带罩",
+    "mergeIds": [
+      714,
+      530
+    ],
+    "mergeDetails": [
+      {
+        "id": 714,
+        "no": "TZJ-1301-680-01ZV",
+        "spec": null
+      },
+      {
+        "id": 530,
+        "no": "ZG0049",
+        "spec": "TZJ-1301-680-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 257,
+    "primaryNo": "TZJ160101ZV",
+    "primarySpec": "TZJ-1601-01ZV",
+    "name": "支架",
+    "mergeIds": [
+      715,
+      571
+    ],
+    "mergeDetails": [
+      {
+        "id": 715,
+        "no": "TZJ-1601-01ZV",
+        "spec": null
+      },
+      {
+        "id": 571,
+        "no": "ZG0090",
+        "spec": "TZJ-1601-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 259,
+    "primaryNo": "TZJ160102ZV",
+    "primarySpec": "TZJ-1601-02ZV",
+    "name": "支架",
+    "mergeIds": [
+      751,
+      581
+    ],
+    "mergeDetails": [
+      {
+        "id": 751,
+        "no": "TZJ-1601-02ZV",
+        "spec": null
+      },
+      {
+        "id": 581,
+        "no": "ZG0100",
+        "spec": "TZJ-1601-02ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 260,
+    "primaryNo": "TZJ160103ZV",
+    "primarySpec": "TZJ-1601-03ZV",
+    "name": "支架",
+    "mergeIds": [
+      750,
+      580
+    ],
+    "mergeDetails": [
+      {
+        "id": 750,
+        "no": "TZJ-1601-03ZV",
+        "spec": null
+      },
+      {
+        "id": 580,
+        "no": "ZG0099",
+        "spec": "TZJ-1601-03ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 266,
+    "primaryNo": "TZJ170101ZV",
+    "primarySpec": "TZJ-1701-01ZV",
+    "name": "电机底座",
+    "mergeIds": [
+      716,
+      572
+    ],
+    "mergeDetails": [
+      {
+        "id": 716,
+        "no": "TZJ-1701-01ZV",
+        "spec": null
+      },
+      {
+        "id": 572,
+        "no": "ZG0091",
+        "spec": "TZJ-1701-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 267,
+    "primaryNo": "TZJ170102ZV",
+    "primarySpec": "TZJ-1701-02ZV",
+    "name": "电机座",
+    "mergeIds": [
+      754,
+      584
+    ],
+    "mergeDetails": [
+      {
+        "id": 754,
+        "no": "TZJ-1701-02ZV",
+        "spec": null
+      },
+      {
+        "id": 584,
+        "no": "ZG0103",
+        "spec": "TZJ-1701-02ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 268,
+    "primaryNo": "TZJ170103ZV",
+    "primarySpec": "TZJ-1701-03ZV",
+    "name": "电机座",
+    "mergeIds": [
+      756,
+      586
+    ],
+    "mergeDetails": [
+      {
+        "id": 756,
+        "no": "TZJ-1701-03ZV",
+        "spec": null
+      },
+      {
+        "id": 586,
+        "no": "ZG0105",
+        "spec": "TZJ-1701-03ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 275,
+    "primaryNo": "TZJC091114001CVA",
+    "primarySpec": "TZJC-0911-140-01CVA",
+    "name": "底座",
+    "mergeIds": [
+      651,
+      554
+    ],
+    "mergeDetails": [
+      {
+        "id": 651,
+        "no": "TZJC-0911-140-01CVA",
+        "spec": null
+      },
+      {
+        "id": 554,
+        "no": "ZG0073",
+        "spec": "TZJC-0911-140-01CVA"
+      }
+    ]
+  },
+  {
+    "primaryId": 280,
+    "primaryNo": "TZJC130140001CV",
+    "primarySpec": "TZJC-1301-400-01CV",
+    "name": "皮带罩",
+    "mergeIds": [
+      654,
+      557
+    ],
+    "mergeDetails": [
+      {
+        "id": 654,
+        "no": "TZJC-1301-400-01CV",
+        "spec": null
+      },
+      {
+        "id": 557,
+        "no": "ZG0076",
+        "spec": "TZJC-1301-400-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 284,
+    "primaryNo": "TZJC170101CV",
+    "primarySpec": "TZJC-1701-01CV",
+    "name": "电机座",
+    "mergeIds": [
+      770,
+      599
+    ],
+    "mergeDetails": [
+      {
+        "id": 770,
+        "no": "TZJC-1701-01CV",
+        "spec": null
+      },
+      {
+        "id": 599,
+        "no": "ZG0118",
+        "spec": "TZJC-1701-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 285,
+    "primaryNo": "TZJC170101CVA",
+    "primarySpec": "TZJC-1701-01CVA",
+    "name": "电机支座",
+    "mergeIds": [
+      655,
+      558
+    ],
+    "mergeDetails": [
+      {
+        "id": 655,
+        "no": "TZJC-1701-01CVA",
+        "spec": null
+      },
+      {
+        "id": 558,
+        "no": "ZG0077",
+        "spec": "TZJC-1701-01CVA"
+      }
+    ]
+  },
+  {
+    "primaryId": 289,
+    "primaryNo": "TZJCY16002DCJZ",
+    "primarySpec": "TZJC-Y160-02DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      778,
+      535
+    ],
+    "mergeDetails": [
+      {
+        "id": 778,
+        "no": "TZJC-Y160-02DCJZ",
+        "spec": null
+      },
+      {
+        "id": 535,
+        "no": "ZG0054",
+        "spec": "TZJC-Y160-02DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 291,
+    "primaryNo": "TZJCY18002DCJZ",
+    "primarySpec": "TZJC-Y180-02DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      789,
+      536
+    ],
+    "mergeDetails": [
+      {
+        "id": 789,
+        "no": "TZJC-Y180-02DCJZ",
+        "spec": null
+      },
+      {
+        "id": 536,
+        "no": "ZG0055",
+        "spec": "TZJC-Y180-02DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 296,
+    "primaryNo": "TZJD091116001CV",
+    "primarySpec": "TZJD-0911-160-01CV",
+    "name": "底座",
+    "mergeIds": [
+      639,
+      542
+    ],
+    "mergeDetails": [
+      {
+        "id": 639,
+        "no": "TZJD-0911-160-01CV",
+        "spec": null
+      },
+      {
+        "id": 542,
+        "no": "ZG0061",
+        "spec": "TZJD-0911-160-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 297,
+    "primaryNo": "TZJD091116002CV",
+    "primarySpec": "TZJD-0911-160-02CV",
+    "name": "底座",
+    "mergeIds": [
+      725,
+      494
+    ],
+    "mergeDetails": [
+      {
+        "id": 725,
+        "no": "TZJD-0911-160-02CV",
+        "spec": null
+      },
+      {
+        "id": 494,
+        "no": "ZG0013",
+        "spec": "TZJD-0911-160-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 299,
+    "primaryNo": "TZJD091118002ZV",
+    "primarySpec": "TZJD-0911-180-02ZV",
+    "name": "底座",
+    "mergeIds": [
+      755,
+      585
+    ],
+    "mergeDetails": [
+      {
+        "id": 755,
+        "no": "TZJD-0911-180-02ZV",
+        "spec": null
+      },
+      {
+        "id": 585,
+        "no": "ZG0104",
+        "spec": "TZJD-0911-180-02ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 306,
+    "primaryNo": "TZJD100430FHZJ150",
+    "primarySpec": "TZJD-100-430-FHZJ-150",
+    "name": "发货支架",
+    "mergeIds": [
+      657,
+      560
+    ],
+    "mergeDetails": [
+      {
+        "id": 657,
+        "no": "TZJD-100-430-FHZJ-150",
+        "spec": null
+      },
+      {
+        "id": 560,
+        "no": "ZG0079",
+        "spec": "TZJD-100-430-FHZJ-150"
+      }
+    ]
+  },
+  {
+    "primaryId": 307,
+    "primaryNo": "TZJD1301130002CL/CR",
+    "primarySpec": "TZJD-1301-1300-02CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      720,
+      488
+    ],
+    "mergeDetails": [
+      {
+        "id": 720,
+        "no": "TZJD-1301-1300-02CL/CR",
+        "spec": null
+      },
+      {
+        "id": 488,
+        "no": "ZG0007",
+        "spec": "TZJD-1301-1300-02CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 308,
+    "primaryNo": "TZJD1301150002CL/CR",
+    "primarySpec": "TZJD-1301-1500-02CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      658,
+      561
+    ],
+    "mergeDetails": [
+      {
+        "id": 658,
+        "no": "TZJD-1301-1500-02CL/CR",
+        "spec": null
+      },
+      {
+        "id": 561,
+        "no": "ZG0080",
+        "spec": "TZJD-1301-1500-02CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 309,
+    "primaryNo": "TZJD130155001CV",
+    "primarySpec": "TZJD-1301-550-01CV",
+    "name": "皮带罩",
+    "mergeIds": [
+      642,
+      545
+    ],
+    "mergeDetails": [
+      {
+        "id": 642,
+        "no": "TZJD-1301-550-01CV",
+        "spec": null
+      },
+      {
+        "id": 545,
+        "no": "ZG0064",
+        "spec": "TZJD-1301-550-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 310,
+    "primaryNo": "TZJD130170001CV",
+    "primarySpec": "TZJD-1301-700-01CV",
+    "name": "皮带罩",
+    "mergeIds": [
+      726,
+      495
+    ],
+    "mergeDetails": [
+      {
+        "id": 726,
+        "no": "TZJD-1301-700-01CV",
+        "spec": null
+      },
+      {
+        "id": 495,
+        "no": "ZG0014",
+        "spec": "TZJD-1301-700-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 311,
+    "primaryNo": "TZJD160101CV",
+    "primarySpec": "TZJD-1601-01CV",
+    "name": "支架",
+    "mergeIds": [
+      640,
+      543
+    ],
+    "mergeDetails": [
+      {
+        "id": 640,
+        "no": "TZJD-1601-01CV",
+        "spec": null
+      },
+      {
+        "id": 543,
+        "no": "ZG0062",
+        "spec": "TZJD-1601-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 312,
+    "primaryNo": "TZJD160102CV",
+    "primarySpec": "TZJD-1601-02CV",
+    "name": "支架",
+    "mergeIds": [
+      727,
+      496
+    ],
+    "mergeDetails": [
+      {
+        "id": 727,
+        "no": "TZJD-1601-02CV",
+        "spec": null
+      },
+      {
+        "id": 496,
+        "no": "ZG0015",
+        "spec": "TZJD-1601-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 313,
+    "primaryNo": "TZJD170102CV",
+    "primarySpec": "TZJD-1701-02CV",
+    "name": "电机座",
+    "mergeIds": [
+      641,
+      544
+    ],
+    "mergeDetails": [
+      {
+        "id": 641,
+        "no": "TZJD-1701-02CV",
+        "spec": null
+      },
+      {
+        "id": 544,
+        "no": "ZG0063",
+        "spec": "TZJD-1701-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 323,
+    "primaryNo": "TZJDY20001DCJZ",
+    "primarySpec": "TZJD-Y200-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      735,
+      507
+    ],
+    "mergeDetails": [
+      {
+        "id": 735,
+        "no": "TZJD-Y200-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 507,
+        "no": "ZG0026",
+        "spec": "TZJD-Y200-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 326,
+    "primaryNo": "TZJDY22501DCJZ",
+    "primarySpec": "TZJD-Y225-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      806,
+      534
+    ],
+    "mergeDetails": [
+      {
+        "id": 806,
+        "no": "TZJD-Y225-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 534,
+        "no": "ZG0053",
+        "spec": "TZJD-Y225-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 329,
+    "primaryNo": "TZJDY25001DCJZ",
+    "primarySpec": "TZJD-Y250-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      774,
+      602
+    ],
+    "mergeDetails": [
+      {
+        "id": 774,
+        "no": "TZJD-Y250-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 602,
+        "no": "ZG0121",
+        "spec": "TZJD-Y250-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 333,
+    "primaryNo": "TZJDY31501DCJZ",
+    "primarySpec": "TZJD-Y315-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      801,
+      528
+    ],
+    "mergeDetails": [
+      {
+        "id": 801,
+        "no": "TZJD-Y315-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 528,
+        "no": "ZG0047",
+        "spec": "TZJD-Y315-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 335,
+    "primaryNo": "TZJE0901HJ",
+    "primarySpec": "TZJE-0901HJ",
+    "name": "底座",
+    "mergeIds": [
+      667,
+      505
+    ],
+    "mergeDetails": [
+      {
+        "id": 667,
+        "no": "TZJE-0901HJ",
+        "spec": null
+      },
+      {
+        "id": 505,
+        "no": "ZG0024",
+        "spec": "TZJE-0901HJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 337,
+    "primaryNo": "TZJE091120001CVYC",
+    "primarySpec": "TZJE-0911-200-01CV-YC",
+    "name": "底座",
+    "mergeIds": [
+      732,
+      502
+    ],
+    "mergeDetails": [
+      {
+        "id": 732,
+        "no": "TZJE-0911-200-01CV-YC",
+        "spec": null
+      },
+      {
+        "id": 502,
+        "no": "ZG0021",
+        "spec": "TZJE-0911-200-01CV-YC"
+      }
+    ]
+  },
+  {
+    "primaryId": 338,
+    "primaryNo": "TZJE091120001ZV",
+    "primarySpec": "TZJE-0911-200-01ZV",
+    "name": "底座",
+    "mergeIds": [
+      759,
+      589
+    ],
+    "mergeDetails": [
+      {
+        "id": 759,
+        "no": "TZJE-0911-200-01ZV",
+        "spec": null
+      },
+      {
+        "id": 589,
+        "no": "ZG0108",
+        "spec": "TZJE-0911-200-01ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 340,
+    "primaryNo": "TZJE091120003ZV",
+    "primarySpec": "TZJE-0911-200-03ZV",
+    "name": "底座",
+    "mergeIds": [
+      758,
+      588
+    ],
+    "mergeDetails": [
+      {
+        "id": 758,
+        "no": "TZJE-0911-200-03ZV",
+        "spec": null
+      },
+      {
+        "id": 588,
+        "no": "ZG0107",
+        "spec": "TZJE-0911-200-03ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 343,
+    "primaryNo": "TZJE1301150003CL/CR",
+    "primarySpec": "TZJE-1301-1500-03CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      717,
+      519
+    ],
+    "mergeDetails": [
+      {
+        "id": 717,
+        "no": "TZJE-1301-1500-03CL/CR",
+        "spec": null
+      },
+      {
+        "id": 519,
+        "no": "ZG0038",
+        "spec": "TZJE-1301-1500-03CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 347,
+    "primaryNo": "TZJE1301180001CL/CR",
+    "primarySpec": "TZJE-1301-1800-01CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      668,
+      567
+    ],
+    "mergeDetails": [
+      {
+        "id": 668,
+        "no": "TZJE-1301-1800-01CL/CR",
+        "spec": null
+      },
+      {
+        "id": 567,
+        "no": "ZG0086",
+        "spec": "TZJE-1301-1800-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 348,
+    "primaryNo": "TZJE130162001CV",
+    "primarySpec": "TZJE-1301-620-01CV",
+    "name": "皮带罩",
+    "mergeIds": [
+      739,
+      511
+    ],
+    "mergeDetails": [
+      {
+        "id": 739,
+        "no": "TZJE-1301-620-01CV",
+        "spec": null
+      },
+      {
+        "id": 511,
+        "no": "ZG0030",
+        "spec": "TZJE-1301-620-01CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 349,
+    "primaryNo": "TZJE130162002CV",
+    "primarySpec": "TZJE-1301-620-02CV",
+    "name": "皮带罩",
+    "mergeIds": [
+      731,
+      501
+    ],
+    "mergeDetails": [
+      {
+        "id": 731,
+        "no": "TZJE-1301-620-02CV",
+        "spec": null
+      },
+      {
+        "id": 501,
+        "no": "ZG0020",
+        "spec": "TZJE-1301-620-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 356,
+    "primaryNo": "TZJE160101CVYC",
+    "primarySpec": "TZJE-1601-01CV-YC",
+    "name": "支架",
+    "mergeIds": [
+      740,
+      512
+    ],
+    "mergeDetails": [
+      {
+        "id": 740,
+        "no": "TZJE-1601-01CV-YC",
+        "spec": null
+      },
+      {
+        "id": 512,
+        "no": "ZG0031",
+        "spec": "TZJE-1601-01CV-YC"
+      }
+    ]
+  },
+  {
+    "primaryId": 357,
+    "primaryNo": "TZJE160102CV",
+    "primarySpec": "TZJE-1601-02CV",
+    "name": "支架",
+    "mergeIds": [
+      733,
+      503
+    ],
+    "mergeDetails": [
+      {
+        "id": 733,
+        "no": "TZJE-1601-02CV",
+        "spec": null
+      },
+      {
+        "id": 503,
+        "no": "ZG0022",
+        "spec": "TZJE-1601-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 359,
+    "primaryNo": "TZJE170102CV",
+    "primarySpec": "TZJE-1701-02CV",
+    "name": "电机座",
+    "mergeIds": [
+      734,
+      504
+    ],
+    "mergeDetails": [
+      {
+        "id": 734,
+        "no": "TZJE-1701-02CV",
+        "spec": null
+      },
+      {
+        "id": 504,
+        "no": "ZG0023",
+        "spec": "TZJE-1701-02CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 360,
+    "primaryNo": "TZJE170103CVYC",
+    "primarySpec": "TZJE-1701-03CV-YC",
+    "name": "电机座",
+    "mergeIds": [
+      741,
+      513
+    ],
+    "mergeDetails": [
+      {
+        "id": 741,
+        "no": "TZJE-1701-03CV-YC",
+        "spec": null
+      },
+      {
+        "id": 513,
+        "no": "ZG0032",
+        "spec": "TZJE-1701-03CV-YC"
+      }
+    ]
+  },
+  {
+    "primaryId": 364,
+    "primaryNo": "TZJEY25001DCJZ",
+    "primarySpec": "TZJE-Y250-01DCJZ",
+    "name": "底座",
+    "mergeIds": [
+      771,
+      600
+    ],
+    "mergeDetails": [
+      {
+        "id": 771,
+        "no": "TZJE-Y250-01DCJZ",
+        "spec": null
+      },
+      {
+        "id": 600,
+        "no": "ZG0119",
+        "spec": "TZJE-Y250-01DCJZ"
+      }
+    ]
+  },
+  {
+    "primaryId": 369,
+    "primaryNo": "TZJF0901HJ",
+    "primarySpec": "TZJF-0901HJ",
+    "name": "底座",
+    "mergeIds": [
+      669,
+      499
+    ],
+    "mergeDetails": [
+      {
+        "id": 669,
+        "no": "TZJF-0901HJ",
+        "spec": null
+      },
+      {
+        "id": 499,
+        "no": "ZG0018",
+        "spec": "TZJF-0901HJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 370,
+    "primaryNo": "TZJF1000108720HJ",
+    "primarySpec": "TZJF-100-0108-720HJ",
+    "name": "泵支架",
+    "mergeIds": [
+      744,
+      574
+    ],
+    "mergeDetails": [
+      {
+        "id": 744,
+        "no": "TZJF-100-0108-720HJ",
+        "spec": null
+      },
+      {
+        "id": 574,
+        "no": "ZG0093",
+        "spec": "TZJF-100-0108-720HJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 371,
+    "primaryNo": "TZJF1500604",
+    "primarySpec": "TZJF-150-0604",
+    "name": "水箱部",
+    "mergeIds": [
+      737,
+      509
+    ],
+    "mergeDetails": [
+      {
+        "id": 737,
+        "no": "TZJF-150-0604",
+        "spec": null
+      },
+      {
+        "id": 509,
+        "no": "ZG0028",
+        "spec": "TZJF-150-0604"
+      }
+    ]
+  },
+  {
+    "primaryId": 379,
+    "primaryNo": "TZJS090120001DC",
+    "primarySpec": "TZJS-0901-200-01DC",
+    "name": "底座",
+    "mergeIds": [
+      779,
+      606
+    ],
+    "mergeDetails": [
+      {
+        "id": 779,
+        "no": "TZJS-0901-200-01DC",
+        "spec": null
+      },
+      {
+        "id": 606,
+        "no": "ZG0125",
+        "spec": "TZJS-0901-200-01DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 380,
+    "primaryNo": "TZJS090130001DC",
+    "primarySpec": "TZJS-0901-300-01DC",
+    "name": "底座",
+    "mergeIds": [
+      721,
+      490
+    ],
+    "mergeDetails": [
+      {
+        "id": 721,
+        "no": "TZJS-0901-300-01DC",
+        "spec": null
+      },
+      {
+        "id": 490,
+        "no": "ZG0009",
+        "spec": "TZJS-0901-300-01DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 383,
+    "primaryNo": "TZJS091120003ZV",
+    "primarySpec": "TZJS-0911-200-03ZV",
+    "name": "底座",
+    "mergeIds": [
+      626
+    ],
+    "mergeDetails": [
+      {
+        "id": 626,
+        "no": "ZG0145",
+        "spec": "TZJS-0911-200-03ZV"
+      }
+    ]
+  },
+  {
+    "primaryId": 388,
+    "primaryNo": "TZJS1301200001CL/CR",
+    "primarySpec": "TZJS-1301-2000-01CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      818,
+      712,
+      569
+    ],
+    "mergeDetails": [
+      {
+        "id": 818,
+        "no": "M20260326090452189",
+        "spec": "TZJS-1301-2000-01CL/CR"
+      },
+      {
+        "id": 712,
+        "no": "TZJS-1301-2000-01CL/CR",
+        "spec": null
+      },
+      {
+        "id": 569,
+        "no": "ZG0088",
+        "spec": "TZJS-1301-2000-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 390,
+    "primaryNo": "TZJS1301220001CL/CR",
+    "primarySpec": "TZJS-1301-2200-01CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      738,
+      510
+    ],
+    "mergeDetails": [
+      {
+        "id": 738,
+        "no": "TZJS-1301-2200-01CL/CR",
+        "spec": null
+      },
+      {
+        "id": 510,
+        "no": "ZG0029",
+        "spec": "TZJS-1301-2200-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 392,
+    "primaryNo": "TZJS1301230001CL/CR",
+    "primarySpec": "TZJS-1301-2300-01CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      722,
+      491
+    ],
+    "mergeDetails": [
+      {
+        "id": 722,
+        "no": "TZJS-1301-2300-01CL/CR",
+        "spec": null
+      },
+      {
+        "id": 491,
+        "no": "ZG0010",
+        "spec": "TZJS-1301-2300-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 394,
+    "primaryNo": "TZJS2500108750K",
+    "primarySpec": "TZJS-250-0108-750K",
+    "name": "泵支架",
+    "mergeIds": [
+      723,
+      492
+    ],
+    "mergeDetails": [
+      {
+        "id": 723,
+        "no": "TZJS-250-0108-750K",
+        "spec": null
+      },
+      {
+        "id": 492,
+        "no": "ZG0011",
+        "spec": "TZJS-250-0108-750K"
+      }
+    ]
+  },
+  {
+    "primaryId": 396,
+    "primaryNo": "TZJS2501201BK18136",
+    "primarySpec": "TZJS-250-1201B-K18136",
+    "name": "联轴器罩",
+    "mergeIds": [
+      631,
+      516
+    ],
+    "mergeDetails": [
+      {
+        "id": 631,
+        "no": "TZJS-250-1201B-K18136",
+        "spec": null
+      },
+      {
+        "id": 516,
+        "no": "ZG0035",
+        "spec": "TZJS-250-1201B-K18136"
+      }
+    ]
+  },
+  {
+    "primaryId": 403,
+    "primaryNo": "TZJS3000108600K",
+    "primarySpec": "TZJS-300-0108-600K",
+    "name": "泵支架",
+    "mergeIds": [
+      648,
+      551
+    ],
+    "mergeDetails": [
+      {
+        "id": 648,
+        "no": "TZJS-300-0108-600K",
+        "spec": null
+      },
+      {
+        "id": 551,
+        "no": "ZG0070",
+        "spec": "TZJS-300-0108-600K"
+      }
+    ]
+  },
+  {
+    "primaryId": 404,
+    "primaryNo": "TZJS3000108700K",
+    "primarySpec": "TZJS-300-0108-700K",
+    "name": "泵支架",
+    "mergeIds": [
+      753,
+      583
+    ],
+    "mergeDetails": [
+      {
+        "id": 753,
+        "no": "TZJS-300-0108-700K",
+        "spec": null
+      },
+      {
+        "id": 583,
+        "no": "ZG0102",
+        "spec": "TZJS-300-0108-700K"
+      }
+    ]
+  },
+  {
+    "primaryId": 405,
+    "primaryNo": "TZJS3000604",
+    "primarySpec": "TZJS-300-0604",
+    "name": "水箱部",
+    "mergeIds": [
+      724,
+      493
+    ],
+    "mergeDetails": [
+      {
+        "id": 724,
+        "no": "TZJS-300-0604",
+        "spec": null
+      },
+      {
+        "id": 493,
+        "no": "ZG0012",
+        "spec": "TZJS-300-0604"
+      }
+    ]
+  },
+  {
+    "primaryId": 406,
+    "primaryNo": "TZJST090126002DC",
+    "primarySpec": "TZJST-0901-260-02DC",
+    "name": "底座",
+    "mergeIds": [
+      664,
+      484
+    ],
+    "mergeDetails": [
+      {
+        "id": 664,
+        "no": "TZJST-0901-260-02DC",
+        "spec": null
+      },
+      {
+        "id": 484,
+        "no": "ZG0003",
+        "spec": "TZJST-0901-260-02DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 411,
+    "primaryNo": "TZJST300/35001081000HJ",
+    "primarySpec": "TZJST-300/350-0108-1000HJ",
+    "name": "泵支架",
+    "mergeIds": [
+      634,
+      486
+    ],
+    "mergeDetails": [
+      {
+        "id": 634,
+        "no": "TZJST-300/350-0108-1000HJ",
+        "spec": null
+      },
+      {
+        "id": 486,
+        "no": "ZG0005",
+        "spec": "TZJST-300/350-0108-1000HJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 416,
+    "primaryNo": "TZJST3001201A",
+    "primarySpec": "TZJST-300-1201A",
+    "name": "联轴器罩",
+    "mergeIds": [
+      632,
+      517
+    ],
+    "mergeDetails": [
+      {
+        "id": 632,
+        "no": "TZJST-300-1201A",
+        "spec": null
+      },
+      {
+        "id": 517,
+        "no": "ZG0036",
+        "spec": "TZJST-300-1201A"
+      }
+    ]
+  },
+  {
+    "primaryId": 419,
+    "primaryNo": "TZJST3500108800BHJ",
+    "primarySpec": "TZJST-350-0108-800BHJ",
+    "name": "泵支架",
+    "mergeIds": [
+      665,
+      565
+    ],
+    "mergeDetails": [
+      {
+        "id": 665,
+        "no": "TZJST-350-0108-800BHJ",
+        "spec": null
+      },
+      {
+        "id": 565,
+        "no": "ZG0084",
+        "spec": "TZJST-350-0108-800BHJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 420,
+    "primaryNo": "TZJST3500108870GAHJ",
+    "primarySpec": "TZJST-350-0108-870GAHJ",
+    "name": "泵支架",
+    "mergeIds": [
+      745,
+      575
+    ],
+    "mergeDetails": [
+      {
+        "id": 745,
+        "no": "TZJST-350-0108-870GAHJ",
+        "spec": null
+      },
+      {
+        "id": 575,
+        "no": "ZG0094",
+        "spec": "TZJST-350-0108-870GAHJ"
+      }
+    ]
+  },
+  {
+    "primaryId": 718,
+    "primaryNo": "TZJST-1301-3000-01CL/CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      485
+    ],
+    "mergeDetails": [
+      {
+        "id": 485,
+        "no": "ZG0004",
+        "spec": "TZJST-1301-3000-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 662,
+    "primaryNo": "TZJD-80-430-FHZJ-150",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      489
+    ],
+    "mergeDetails": [
+      {
+        "id": 489,
+        "no": "ZG0008",
+        "spec": "TZJD-80-430-FHZJ-150"
+      }
+    ]
+  },
+  {
+    "primaryId": 728,
+    "primaryNo": "TZJD-1701-04CV",
+    "primarySpec": null,
+    "name": "电机座",
+    "mergeIds": [
+      497
+    ],
+    "mergeDetails": [
+      {
+        "id": 497,
+        "no": "ZG0016",
+        "spec": "TZJD-1701-04CV"
+      }
+    ]
+  },
+  {
+    "primaryId": 730,
+    "primaryNo": "TZJS-1301-2000-02CL/CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      500
+    ],
+    "mergeDetails": [
+      {
+        "id": 500,
+        "no": "ZG0019",
+        "spec": "TZJS-1301-2000-02CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 659,
+    "primaryNo": "TZJE-150-500-FHZJ-155",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      506
+    ],
+    "mergeDetails": [
+      {
+        "id": 506,
+        "no": "ZG0025",
+        "spec": "TZJE-150-500-FHZJ-155"
+      }
+    ]
+  },
+  {
+    "primaryId": 736,
+    "primaryNo": "TZJF/K-250-550-FHZJ-160",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      508
+    ],
+    "mergeDetails": [
+      {
+        "id": 508,
+        "no": "ZG0027",
+        "spec": "TZJF/K-250-550-FHZJ-160"
+      }
+    ]
+  },
+  {
+    "primaryId": 742,
+    "primaryNo": "TZJF-150-700-FHZJ-160",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      514
+    ],
+    "mergeDetails": [
+      {
+        "id": 514,
+        "no": "ZG0033",
+        "spec": "TZJF-150-700-FHZJ-160"
+      }
+    ]
+  },
+  {
+    "primaryId": 743,
+    "primaryNo": "TZJS-1301-2300-06CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      515
+    ],
+    "mergeDetails": [
+      {
+        "id": 515,
+        "no": "ZG0034",
+        "spec": "TZJS-1301-2300-06CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 521,
+    "primaryNo": "ZG0040",
+    "primarySpec": "ZGB-100-Y315-01DC",
+    "name": "底座",
+    "mergeIds": [
+      795
+    ],
+    "mergeDetails": [
+      {
+        "id": 795,
+        "no": "ZGB-100-Y315-01DC",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 524,
+    "primaryNo": "ZG0043",
+    "primarySpec": "ZGB-350-0901HJ",
+    "name": "底座",
+    "mergeIds": [
+      797
+    ],
+    "mergeDetails": [
+      {
+        "id": 797,
+        "no": "ZGB-350-0901HJ",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 798,
+    "primaryNo": "DJDZ-Y560-200-02JMS",
+    "primarySpec": null,
+    "name": "电机底座",
+    "mergeIds": [
+      525
+    ],
+    "mergeDetails": [
+      {
+        "id": 525,
+        "no": "ZG0044",
+        "spec": "DJDZ-Y560-200-02JMS"
+      }
+    ]
+  },
+  {
+    "primaryId": 799,
+    "primaryNo": "TD-1260-1201A",
+    "primarySpec": null,
+    "name": "联轴器罩",
+    "mergeIds": [
+      526
+    ],
+    "mergeDetails": [
+      {
+        "id": 526,
+        "no": "ZG0045",
+        "spec": "TD-1260-1201A"
+      }
+    ]
+  },
+  {
+    "primaryId": 527,
+    "primaryNo": "ZG0046",
+    "primarySpec": "ZGB-350-1100TD-0108HJ",
+    "name": "泵支架",
+    "mergeIds": [
+      800
+    ],
+    "mergeDetails": [
+      {
+        "id": 800,
+        "no": "ZGB-350-1100TD-0108HJ",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 532,
+    "primaryNo": "ZG0051",
+    "primarySpec": "ZGB-910-1201A",
+    "name": "联轴器罩",
+    "mergeIds": [
+      804
+    ],
+    "mergeDetails": [
+      {
+        "id": 804,
+        "no": "ZGB-910-1201A",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 807,
+    "primaryNo": "SZ-100-500-Y250-01DC",
+    "primarySpec": null,
+    "name": "底座",
+    "mergeIds": [
+      537
+    ],
+    "mergeDetails": [
+      {
+        "id": 537,
+        "no": "ZG0056",
+        "spec": "SZ-100-500-Y250-01DC"
+      }
+    ]
+  },
+  {
+    "primaryId": 538,
+    "primaryNo": "ZG0057",
+    "primarySpec": "ZGB-350-3000-01CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      635
+    ],
+    "mergeDetails": [
+      {
+        "id": 635,
+        "no": "ZGB-350-3000-01CR",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 636,
+    "primaryNo": "TZJE-200-550-FHZJ-155",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      539
+    ],
+    "mergeDetails": [
+      {
+        "id": 539,
+        "no": "ZG0058",
+        "spec": "TZJE-200-550-FHZJ-155"
+      }
+    ]
+  },
+  {
+    "primaryId": 637,
+    "primaryNo": "TZJE-1301-1700-01CL/CR",
+    "primarySpec": "TZJE-1301-1700-01CL/CR",
+    "name": "皮带罩",
+    "mergeIds": [
+      540
+    ],
+    "mergeDetails": [
+      {
+        "id": 540,
+        "no": "ZG0059",
+        "spec": "TZJE-1301-1700-01CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 638,
+    "primaryNo": "TZJD-100-370-FHZJ-150",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      541
+    ],
+    "mergeDetails": [
+      {
+        "id": 541,
+        "no": "ZG0060",
+        "spec": "TZJD-100-370-FHZJ-150"
+      }
+    ]
+  },
+  {
+    "primaryId": 643,
+    "primaryNo": "FHDZ-ST-200",
+    "primarySpec": null,
+    "name": "发货底座",
+    "mergeIds": [
+      546
+    ],
+    "mergeDetails": [
+      {
+        "id": 546,
+        "no": "ZG0065",
+        "spec": "FHDZ-ST-200"
+      }
+    ]
+  },
+  {
+    "primaryId": 644,
+    "primaryNo": "JGTZJST-300-0108-251132",
+    "primarySpec": null,
+    "name": "泵支架",
+    "mergeIds": [
+      547
+    ],
+    "mergeDetails": [
+      {
+        "id": 547,
+        "no": "ZG0066",
+        "spec": "JGTZJST-300-0108-251132"
+      }
+    ]
+  },
+  {
+    "primaryId": 645,
+    "primaryNo": "TZJST-1301-2600-02CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      548
+    ],
+    "mergeDetails": [
+      {
+        "id": 548,
+        "no": "ZG0067",
+        "spec": "TZJST-1301-2600-02CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 647,
+    "primaryNo": "TZJS-1301-2300-03CL/CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      550
+    ],
+    "mergeDetails": [
+      {
+        "id": 550,
+        "no": "ZG0069",
+        "spec": "TZJS-1301-2300-03CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 650,
+    "primaryNo": "TZJE-1301-1700-04CL/CR",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      553
+    ],
+    "mergeDetails": [
+      {
+        "id": 553,
+        "no": "ZG0072",
+        "spec": "TZJE-1301-1700-04CL/CR"
+      }
+    ]
+  },
+  {
+    "primaryId": 652,
+    "primaryNo": "TZJC-50-230-FHZJ-130",
+    "primarySpec": null,
+    "name": "发货支架",
+    "mergeIds": [
+      555
+    ],
+    "mergeDetails": [
+      {
+        "id": 555,
+        "no": "ZG0074",
+        "spec": "TZJC-50-230-FHZJ-130"
+      }
+    ]
+  },
+  {
+    "primaryId": 653,
+    "primaryNo": "TZJC-1701-03CVA",
+    "primarySpec": null,
+    "name": "电机底座",
+    "mergeIds": [
+      556
+    ],
+    "mergeDetails": [
+      {
+        "id": 556,
+        "no": "ZG0075",
+        "spec": "TZJC-1701-03CVA"
+      }
+    ]
+  },
+  {
+    "primaryId": 660,
+    "primaryNo": "JGTZJD-0902HJ-251175",
+    "primarySpec": null,
+    "name": "泵底座",
+    "mergeIds": [
+      562
+    ],
+    "mergeDetails": [
+      {
+        "id": 562,
+        "no": "ZG0081",
+        "spec": "JGTZJD-0902HJ-251175"
+      }
+    ]
+  },
+  {
+    "primaryId": 661,
+    "primaryNo": "JGTZJD-0902HJ-251176",
+    "primarySpec": null,
+    "name": "泵底座",
+    "mergeIds": [
+      563
+    ],
+    "mergeDetails": [
+      {
+        "id": 563,
+        "no": "ZG0082",
+        "spec": "JGTZJD-0902HJ-251176"
+      }
+    ]
+  },
+  {
+    "primaryId": 663,
+    "primaryNo": "DB-251176",
+    "primarySpec": null,
+    "name": "电机导轨垫板",
+    "mergeIds": [
+      564
+    ],
+    "mergeDetails": [
+      {
+        "id": 564,
+        "no": "ZG0083",
+        "spec": "DB-251176"
+      }
+    ]
+  },
+  {
+    "primaryId": 666,
+    "primaryNo": "TZJST-1301-2600-01CL",
+    "primarySpec": null,
+    "name": "皮带罩",
+    "mergeIds": [
+      566
+    ],
+    "mergeDetails": [
+      {
+        "id": 566,
+        "no": "ZG0085",
+        "spec": "TZJST-1301-2600-01CL"
+      }
+    ]
+  },
+  {
+    "primaryId": 595,
+    "primaryNo": "ZG0114",
+    "primarySpec": "ZGTX400-0901-250-01DC",
+    "name": "底座",
+    "mergeIds": [
+      767
+    ],
+    "mergeDetails": [
+      {
+        "id": 767,
+        "no": "ZGTX400-0901-250-01DC",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 596,
+    "primaryNo": "ZG0115",
+    "primarySpec": "ZGTX400-650-014",
+    "name": "支架",
+    "mergeIds": [
+      768
+    ],
+    "mergeDetails": [
+      {
+        "id": 768,
+        "no": "ZGTX400-650-014",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 597,
+    "primaryNo": "ZG0116",
+    "primarySpec": "ZGB-100-0911-200-01ZV",
+    "name": "底座",
+    "mergeIds": [
+      762
+    ],
+    "mergeDetails": [
+      {
+        "id": 762,
+        "no": "ZGB-100-0911-200-01ZV",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 769,
+    "primaryNo": "ZST16.05A-1",
+    "primarySpec": null,
+    "name": "轴承箱底座(毛坯)",
+    "mergeIds": [
+      598
+    ],
+    "mergeDetails": [
+      {
+        "id": 598,
+        "no": "ZG0117",
+        "spec": "ZST16.05A-1"
+      }
+    ]
+  },
+  {
+    "primaryId": 618,
+    "primaryNo": "ZG0137",
+    "primarySpec": "ZGB-300-0901HJ",
+    "name": "底座",
+    "mergeIds": [
+      791
+    ],
+    "mergeDetails": [
+      {
+        "id": 791,
+        "no": "ZGB-300-0901HJ",
+        "spec": null
+      }
+    ]
+  },
+  {
+    "primaryId": 620,
+    "primaryNo": "ZG0139",
+    "primarySpec": "ZGB-300-1000PM-0108HJ",
+    "name": "泵支架",
+    "mergeIds": [
+      793
+    ],
+    "mergeDetails": [
+      {
+        "id": 793,
+        "no": "ZGB-300-1000PM-0108HJ",
+        "spec": null
+      }
+    ]
+  }
+]

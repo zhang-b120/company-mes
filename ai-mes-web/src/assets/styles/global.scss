@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  height: 100%;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;
+}
+
+.page-container {
+  padding: 20px;
+}
+
+.search-bar {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.table-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.pagination-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}
+
+// scrollbar
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #dcdfe6;
+  border-radius: 3px;
+}
+
+.el-form--inline .el-form-item {
+  margin-right: 16px;
+}
+
+// Fix: Element Plus 2.8+ redesigned el-select to use position:absolute for selected value display.
+// The new design requires an explicit width; without it, el-select has near-zero intrinsic width
+// in inline-flex form-items, causing the selected label to be invisible.
+// Selects with explicit inline style (style="width: Xpx") are unaffected (inline style wins).
+.el-form--inline .el-form-item .el-select {
+  width: 160px;
+}
+
+.dialog-footer {
+  display: flex;
+  justify-content: flex-end;
+}

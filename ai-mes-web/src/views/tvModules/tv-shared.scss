@@ -1,0 +1,66 @@
+/* 大屏内容区共享样式：panel / kpi / chart-card / 表格 */
+.tvm-panel{display:none;flex:1;flex-direction:column;gap:10px;min-height:0;animation:tvmFade .35s ease}
+.tvm-panel.active{display:flex}
+@keyframes tvmFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+.tvm-kpi-row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;flex-shrink:0}
+.tvm-kpi{background:linear-gradient(135deg,rgba(var(--rgb-p),0.08),rgba(0,0,0,0.25));
+  border:1px solid var(--border);border-radius:8px;
+  padding:14px 18px;position:relative;overflow:hidden;transition:all .3s}
+.tvm-kpi:hover{border-color:rgba(var(--rgb-p),.5);transform:translateY(-2px);
+  box-shadow:0 8px 28px rgba(0,0,0,.4)}
+.tvm-kpi::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;border-radius:2px}
+.tvm-kpi.k1::before{background:linear-gradient(180deg,var(--cyan),transparent)}
+.tvm-kpi.k2::before{background:linear-gradient(180deg,var(--green),transparent)}
+.tvm-kpi.k3::before{background:linear-gradient(180deg,var(--orange),transparent)}
+.tvm-kpi.k4::before{background:linear-gradient(180deg,var(--purple),transparent)}
+.tvm-kpi.k5::before{background:linear-gradient(180deg,var(--red),transparent)}
+.tvm-kpi.k6::before{background:linear-gradient(180deg,var(--gold),transparent)}
+
+.tvm-kpi-label{font-size:11px;color:var(--text2);margin-bottom:7px;display:flex;align-items:center;gap:5px}
+.tvm-kpi-label .ldot{width:5px;height:5px;border-radius:50%}
+.tvm-kpi-value{font-size:28px;font-weight:700;line-height:1.1;margin-bottom:7px;color:var(--text)}
+.tvm-kpi-value .unit{font-size:13px;color:var(--text2);margin-left:3px;font-weight:400}
+.tvm-kpi-value .prefix{font-size:16px;font-weight:400;color:var(--text2);margin-right:2px}
+.tvm-kpi-trend{font-size:11px}
+.tvm-kpi-trend.up{color:var(--green)}.tvm-kpi-trend.dn{color:var(--red)}.tvm-kpi-trend.eq{color:var(--text2)}
+
+.tvm-charts{flex:1;display:grid;gap:10px;min-height:0}
+.tvm-cr3{grid-template-columns:5fr 3fr 4fr}
+.tvm-cr2{grid-template-columns:1fr 1fr}
+
+.tvm-card{background:linear-gradient(135deg,rgba(var(--rgb-p),0.05),rgba(0,0,0,0.25));
+  border:1px solid var(--border);border-radius:8px;
+  padding:12px;display:flex;flex-direction:column;position:relative;overflow:hidden}
+.tvm-card:hover{border-color:rgba(var(--rgb-p),.4)}
+.tvm-card::before,.tvm-card::after{content:'';position:absolute;width:18px;height:18px;
+  pointer-events:none;opacity:.6;z-index:0}
+.tvm-card::before{top:0;left:0;border-top:1px solid var(--p);border-left:1px solid var(--p)}
+.tvm-card::after{bottom:0;right:0;border-bottom:1px solid var(--p);border-right:1px solid var(--p)}
+
+.tvm-ct{font-size:12px;color:var(--text2);margin-bottom:8px;flex-shrink:0;
+  display:flex;align-items:center;justify-content:space-between;z-index:1}
+.tvm-ct-l{display:flex;align-items:center;gap:6px;color:var(--text)}
+.tvm-ct-l::before{content:'';width:3px;height:13px;background:var(--p);border-radius:2px;flex-shrink:0}
+.tvm-tag{font-size:10px;padding:2px 8px;border-radius:10px;
+  background:rgba(var(--rgb-p),.1);color:var(--p);border:1px solid rgba(var(--rgb-p),.25)}
+.tvm-tag.warn{background:rgba(255,107,53,.12);color:var(--orange);border-color:rgba(255,107,53,.3)}
+.tvm-tag.ok{background:rgba(0,255,157,.1);color:var(--green);border-color:rgba(0,255,157,.25)}
+.tvm-tag.bad{background:rgba(255,68,102,.12);color:var(--red);border-color:rgba(255,68,102,.3)}
+
+.tvm-ci{flex:1;min-height:0;z-index:1}
+
+.tvm-table{width:100%;border-collapse:collapse;font-size:11.5px}
+.tvm-table th{color:var(--text2);padding:5px 8px;text-align:left;
+  border-bottom:1px solid var(--border);font-weight:400;white-space:nowrap;
+  position:sticky;top:0;background:rgba(0,0,0,0.5);z-index:1}
+.tvm-table td{padding:6px 8px;border-bottom:1px solid rgba(var(--rgb-p),.06);color:var(--text)}
+.tvm-table tr:hover td{background:rgba(var(--rgb-p),.05)}
+.tvm-sub{color:var(--text2);font-size:10.5px}
+
+.tvm-badge{display:inline-block;padding:1px 7px;border-radius:10px;font-size:10px;white-space:nowrap}
+.bw{background:rgba(255,140,40,.15);color:var(--orange)}
+.bo{background:rgba(0,255,157,.12);color:var(--green)}
+.be{background:rgba(255,68,102,.15);color:var(--red)}
+.bi{background:rgba(0,212,255,.12);color:var(--cyan)}
+.bp{background:rgba(168,85,247,.15);color:var(--purple)}
